@@ -1,0 +1,65 @@
+body{
+	background-color: #68cdd7;
+	margin: 0;
+}
+.hh{
+	position: absolute;
+	top: 0px;
+}
+.hh img{
+	width: 40px;
+}
+.p{
+	position: absolute;
+	left: 50%;
+	top: 40px;
+	
+}
+.p img{
+	position: relative;
+	left: -50%;
+	width: 100px;
+}
+p.a{
+	position: absolute;
+	top: 200px;
+	color:white;
+	width:80%;
+	padding-left:10%;
+	padding-right:10%;
+
+	}
+.o{
+	position: absolute;
+	width: 100px;
+	height: 50px;
+	left: 10%;
+	top: 370px;
+}
+.o img{
+	position: absolute;
+	width: 80px;
+	height: 80px;
+}
+.stupid{
+	position: absolute;
+	top: 55px;
+	left: 20px;
+}
+
+.i{
+	position: absolute;
+	top: 370px;
+	right: 10%;
+	width:80px;
+}
+.i img{
+	position: absolute;
+	width: 80px;
+	height: 80px;
+}
+.i p{
+	position: absolute;
+	top: 60px;
+	left: 30px; 
+}
